@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="25" cy="25" r="25" fill="rgba(122,134,245,0.3)"/>
+  <g id="Icon_ionic-ios-document" data-name="Icon ionic-ios-document" transform="translate(7.687 7.063)">
+    <path id="Path_5" data-name="Path 5" d="M21.938,10.9h6.4a.348.348,0,0,0,.352-.352h0a2.081,2.081,0,0,0-.752-1.61L22.57,4.465a2.258,2.258,0,0,0-1.448-.52h0a.519.519,0,0,0-.52.52v5.1A1.335,1.335,0,0,0,21.938,10.9Z" fill="#7a86f5"/>
+    <path id="Path_6" data-name="Path 6" d="M18.773,9.563V3.938H9.563a2.257,2.257,0,0,0-2.25,2.25V29.813a2.257,2.257,0,0,0,2.25,2.25H26.438a2.257,2.257,0,0,0,2.25-2.25V12.727h-6.75A3.169,3.169,0,0,1,18.773,9.563Z" fill="#7a86f5"/>
+  </g>
+</svg>

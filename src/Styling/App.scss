@@ -1,0 +1,115 @@
+@import '~scss-react';
+
+/*Defining Colors*/
+$myPurple: #7A86F5;
+$myPurple70: rgba (#7A86F5, .7);
+$myPurple20: rgba (#7A86F5, .2);
+$myGreen: #00C9A7;
+$myGreen70: rgba(#00C9A7, .7);
+$myGreen20: rgba(#00C9A7, .2);
+$myGreen2: #00A488;
+$myGrey: #3C3C3C;
+
+
+/*Defining fonts size*/
+$smallBody: 18px;
+$largeBody: 24px;
+$label: 16px;
+$h4: 18px;
+$h3: 32px;
+$h2: 72px;
+$h1: 140px;
+
+html{
+    height: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    width: 10%;
+}
+
+.illustration{
+    height: 80%;
+    margin-top: 20px;
+}
+
+p{
+    font-size: 13px;
+}
+
+.ProfileCards{
+    margin-top: 150px;
+}
+
+.Container{
+    display: flex;
+    justify-content:center;
+}
+
+.card{
+    --bs-card-border-radius: 0 !important;
+}
+
+.cardshadow{
+    box-shadow: 0px 0px 15px #CECECE;
+    margin-right: 20px;
+}
+
+.progress{
+    --bs-progress-height: 0.3rem !important
+}
+
+.purpleborder{
+    --bs-card-border-color: #7A86F5 !important;
+}
+
+.greenborder{
+    --bs-card-border-color: #00A488 !important;
+}
+
+.jobcard{
+    --bs-card-spacer-y: 1.5rem !important;
+    --bs-card-spacer-x: 1.5rem !important;
+}
+
+.btn-outline-success{
+    --bs-btn-color: #00A488 !important;
+    --bs-btn-border-color: #00A488 !important;
+    --bs-btn-hover-bg: #00A488 !important;
+    --bs-btn-hover-border-color: #00A488 !important;
+    --bs-btn-hover-border-color: #00A488 !important;
+}
+
+.cv {
+    color: #00A488 !important;
+    text-decoration: none !important;
+}
+
+//SCROLLBAR 
+*::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+*::-webkit-scrollbar-track {
+    background: #EAEAEA;
+  }
+  
+*::-webkit-scrollbar-thumb {
+    background-color: #B4B4B4;
+    border-radius: 20px;
+    border: 3px solid #EAEAEA;
+  }
+
+.modal-content{
+    border-radius: 0% !important;
+    background-clip:border-box !important;
+  }
+
+  .modal-header{
+    padding: 1.5rem 1.5rem !important;
+  }
